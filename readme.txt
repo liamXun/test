@@ -2,4 +2,4 @@ git is a version control system
 git test
 Creating a new branch is quick.
 Creating a new branch is quick add simple£¬ is a  software.
-branch commit
+branch commit add
